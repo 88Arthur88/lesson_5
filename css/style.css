@@ -1,0 +1,77 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  font-size: 14;
+  line-height: 2;
+  word-spacing: 3px;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Bungee Spice";
+  font-size: 24px;
+  background-color: aquamarine;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  letter-spacing: 10px;
+}
+
+h2 {
+  font-size: 16px;
+}
+
+h3 {
+  font-size: 14px;
+}
+
+.add {
+  font-size: 10px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration: underline;
+  color: rgb(95, 95, 233);
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+p {
+  text-shadow: 3px 3px 6px rgb(6, 6, 6);
+  text-indent: 20px;
+}
+
+a {
+  text-decoration: underline;
+}
+
+.begin,
+.storage,
+.padvanced,
+.pnumber,
+.pwifi,
+.pcoffee,
+.pusability,
+.phow,
+.conclusion {
+  margin: 50px 30px;
+}
+
+.storage-list {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.list {
+  text-decoration: underline;
+  text-transform: uppercase;
+}
+
+.linktop {
+  text-align: right;
+  color: blueviolet;
+  font-size: 10px;
+  text-decoration: underline;
+  text-transform: uppercase;
+}
